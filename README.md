@@ -1,17 +1,17 @@
-# Hola, soy Tania 😼
+# hi, I'm Tania 😼
 
-Estudiante de Ingeniería de Sistemas en la UCB, La Paz 🇧🇴  
+Systems Engineering student at UCB, La Paz 🇧🇴  
 
-Me gusta mucho el área de ML/IA y el desarrollo web. Últimamente estoy explorando cómo combinar las dos cosas: modelos que no solo funcionan en un notebook, sino que llegan a una interfaz y le sirven a alguien de verdad.
+I'm really into ML/AI and web development. Lately I've been exploring how to combine both — models that don't just live in a notebook but actually reach an interface and help someone for real.
 
-También me está gustando mucho el mundo de cloud computing — AWS, Docker, todo eso de mover cosas a la nube y que no exploten. Todavía estoy aprendiendo.
+Cloud computing has also been pulling me in a lot — AWS, Docker, all that stuff about moving things to the cloud without breaking everything.
 
 ---
 
-## stack con el que me muevo
+## My stack
 
-**ML / datos**  
-`Python` `scikit-learn` `TensorFlow` 
+**ML / data**  
+`Python` `scikit-learn` `TensorFlow` `FAISS` `MLflow` `HuggingFace`
 
 **Web**  
 `React` `Node.js` `PostgreSQL` `REST APIs`
@@ -19,15 +19,16 @@ También me está gustando mucho el mundo de cloud computing — AWS, Docker, to
 **Cloud & infra**  
 `AWS` (EC2, Lambda, S3, Textract, RDS) `Docker`
 
+---
 
+## Outside of code
 
-## fuera del código
-
-Tengo 4 chihuahuas y 4 gatos, o sea que mi casa es básicamente un zoológico de bolsillo 🐾  
-Hago pesas y leo libros — dos cosas que no tienen nada que ver pero que juntas me mantienen cuerda.  
-Siempre ando buscando recomendaciones de lo que sea: libros, música, series, lo que tengas 🖤
+I have 4 chihuahuas and 4 cats, so my house is basically a pocket zoo 🐾  
+I lift weights and read books — two things that have nothing to do with each other but together keep me sane.  
+Always looking for recommendations — books, music, shows, whatever you've got 🖤
 
 ---
 
-*No soy una musa.
-Soy esa persona* ✨
+*I am not a muse.
+I am the somebody.
+End of story.* ✨
