@@ -1,4 +1,4 @@
-# hola, soy Tania 😼
+# Hola, soy Tania 😼
 
 Estudiante de Ingeniería de Sistemas en la UCB, La Paz 🇧🇴  
 
