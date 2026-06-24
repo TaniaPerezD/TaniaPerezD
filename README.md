@@ -1,4 +1,4 @@
-# hi, I'm Tania 😼
+# Hi, I'm Tania 😼
 
 Systems Engineering student at UCB, La Paz 🇧🇴  
 
